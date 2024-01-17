@@ -47,6 +47,15 @@
 						</exclude>
 					</excludes>
 				</configuration>
+
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.12.1</version> <!-- Use a version that supports your Java version -->
+				<configuration>
+					<release>17</release> <!-- Specify the Java version you are using -->
+				</configuration>
 			</plugin>
 		</plugins>
 	</build>
