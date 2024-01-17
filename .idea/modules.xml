@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JullesApp/JullesApp.iml" filepath="$PROJECT_DIR$/JullesApp/JullesApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/julles-test.iml" filepath="$PROJECT_DIR$/.idea/julles-test.iml" />
     </modules>
   </component>
